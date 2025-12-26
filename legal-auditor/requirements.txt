@@ -1,0 +1,6 @@
+transformers
+torch
+spacy
+pandas
+scikit-learn
+gradio
